@@ -31,7 +31,7 @@ class MyApp extends StatelessWidget {
                     onDetailsPressed: () {
                       print("user pic");
                     },
-                    accountName: Text("Mamdouh Rushdi"),
+                    accountName: Text("Mamdouh Rushddddi"),
                     accountEmail: Text("mrma11581@gmail.com"),
                     decoration: BoxDecoration(
                         color: Colors.amber,
